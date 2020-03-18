@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optics | Gavin Niendorf</title>
+    <link>https://gniendorf.com/categories/optics/</link>
+      <atom:link href="https://gniendorf.com/categories/optics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Optics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Mar 2020 23:37:28 -0700</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Optics</title>
+      <link>https://gniendorf.com/categories/optics/</link>
+    </image>
+    
+    <item>
+      <title>TracePy</title>
+      <link>https://gniendorf.com/project/my-project-name/</link>
+      <pubDate>Tue, 17 Mar 2020 23:37:28 -0700</pubDate>
+      <guid>https://gniendorf.com/project/my-project-name/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

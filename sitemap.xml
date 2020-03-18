@@ -3,6 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gniendorf.com/authors/</loc>
+    <lastmod>2020-03-17T23:37:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gniendorf.com/categories/</loc>
+    <lastmod>2020-03-17T23:37:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gniendorf.com/authors/gavin-niendorf/</loc>
+    <lastmod>2020-03-17T23:37:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gniendorf.com/</loc>
+    <lastmod>2020-03-17T23:37:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gniendorf.com/tags/optics/</loc>
+    <lastmod>2020-03-17T23:37:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gniendorf.com/categories/optics/</loc>
+    <lastmod>2020-03-17T23:37:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gniendorf.com/project/</loc>
+    <lastmod>2020-03-17T23:37:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gniendorf.com/tags/</loc>
+    <lastmod>2020-03-17T23:37:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gniendorf.com/project/my-project-name/</loc>
+    <lastmod>2020-03-17T23:37:28-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gniendorf.com/publication_types/2/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
@@ -28,11 +73,6 @@
   </url>
   
   <url>
-    <loc>https://gniendorf.com/authors/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gniendorf.com/authors/bertrand-echenard/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
@@ -49,16 +89,6 @@
   
   <url>
     <loc>https://gniendorf.com/authors/david-g.-hitlin/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gniendorf.com/authors/gavin-niendorf/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gniendorf.com/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -188,11 +218,6 @@
   </url>
   
   <url>
-    <loc>https://gniendorf.com/tags/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gniendorf.com/authors/thomas-eichlersmith/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
@@ -244,10 +269,6 @@
   
   <url>
     <loc>https://gniendorf.com/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gniendorf.com/categories/</loc>
   </url>
   
   <url>
