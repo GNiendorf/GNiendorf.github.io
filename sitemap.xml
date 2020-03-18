@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://gniendorf.com/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gniendorf.com/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gniendorf.com/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gniendorf.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gniendorf.com/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gniendorf.com/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gniendorf.com/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gniendorf.com/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gniendorf.com/tags/</loc>
+  </url>
+  
+</urlset>
