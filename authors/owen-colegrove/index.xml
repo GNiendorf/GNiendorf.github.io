@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Owen Colegrove | Gavin Niendorf</title>
+    <link>https://gniendorf.com/authors/owen-colegrove/</link>
+      <atom:link href="https://gniendorf.com/authors/owen-colegrove/index.xml" rel="self" type="application/rss+xml" />
+    <description>Owen Colegrove</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Owen Colegrove</title>
+      <link>https://gniendorf.com/authors/owen-colegrove/</link>
+    </image>
+    
+    <item>
+      <title>A High Efficiency Photon Veto for the Light Dark Matter eXperiment</title>
+      <link>https://gniendorf.com/publication/akesson-high-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://gniendorf.com/publication/akesson-high-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light Dark Matter eXperiment (LDMX)</title>
+      <link>https://gniendorf.com/publication/akesson-light-2018/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://gniendorf.com/publication/akesson-light-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
